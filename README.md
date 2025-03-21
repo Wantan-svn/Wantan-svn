@@ -1,16 +1,32 @@
-## Hi there 👋
+# Fernando Bisbal – Desarrollador de Software y Full Stack
+ 
 
-<!--
-**Wantan-svn/Wantan-svn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desarrollador Full Stack con experiencia en **cloud computing, inteligencia de negocios y ciencia de datos**.  
+Me especializo en construir soluciones eficientes con **Java, Python, React, Node.js, TypeScript, PostgreSQL y AWS**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologías y Habilidades  
+- **Desarrollo de aplicaciones completas** con **React**, **Node.js**, **Django** y **Java**.
+- **Creación de chatbots**, sistemas de análisis con **machine learning** e integración de **IA generativa**.
+- **Uso de APIs externas** y bibliotecas especializadas para enriquecer funcionalidades.
+- **Manejo avanzado de Bootstrap** para interfaces limpias, responsivas y profesionales.
+- **Trabajo con bases de datos relacionales** (SQL Server, PostgreSQL, MySQL) y no relacionales (MongoDB).
+- **Configuración de entornos en la nube con AWS**: EC2, RDS, S3, despliegue de aplicaciones y servicios.
+- **Desarrollo de proyectos robóticos** con **Arduino**, sensores, actuadores y lógica de control.
+- **Maquetas de videojuegos en Unity**, aplicando diseño, programación y elementos interactivos.
+- **Conocimientos sólidos en soporte técnico**, redes, mantenimiento, formateo, optimización de equipos, integración de sistemas de cámaras y tecnología 3D (impresión y prototipado).
+
+
+---
+
+## 📂 Proyectos Destacados  
+
+---
+
+## 📫 Contacto  
+📧 **Email**: [fernando.bisbal28@gmail.com]  
+💼 **LinkedIn**: [linkedin.com/in/fernando-bisbal-alvarado](#)  
+🌐 **Portafolio Web**: [Wantan-svn.github.io](#)  
+
+---
