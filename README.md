@@ -21,7 +21,7 @@ Me especializo en construir soluciones eficientes con **Java, Python, React, Nod
 ---
 
 ## 📂 Proyectos Destacados  
-🔹 **[MonkeyValue - React + Vite] - (https://github.com/Wantan-svn/MonkeyValue.git)** – MonkeyValue es una aplicación web diseñada para explorar videojuegos mediante la API de RAWG. 
+-🔹 **[MonkeyValue - React + Vite] - (https://github.com/Wantan-svn/MonkeyValue.git)** – MonkeyValue es una aplicación web diseñada para explorar videojuegos mediante la API de RAWG. 
 ---
 
 ## 📫 Contacto  
