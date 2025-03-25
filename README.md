@@ -21,7 +21,7 @@ Me especializo en construir soluciones eficientes con **Java, Python, React, Nod
 
 ## 📂 Proyectos
 - 🔹 **[MonkeyValue - React + Vite](https://github.com/Wantan-svn/MonkeyValue.git)** – MonkeyValue es una aplicación web diseñada para explorar videojuegos mediante la API de RAWG.
-- 🔹 **[AEM - Jupiter/collab](https://github.com/Wantan-svn/AEM.git)** – MonkeyValue es una aplicación web diseñada para explorar videojuegos mediante la API de RAWG.
+- 🔹 **[AEM - Jupiter/collab](https://github.com/Wantan-svn/AEM.git)** – AEM es una herramienta para realizar procesos de analisis exploratorio a diversas fuentes de datos.
 
 ---
 
