@@ -1,6 +1,5 @@
 # Fernando Bisbal – Desarrollador de Software y Full Stack
  
-
 🚀 Desarrollador Full Stack con experiencia en **cloud computing, inteligencia de negocios y ciencia de datos**.  
 Me especializo en construir soluciones eficientes con **Java, Python, React, Node.js, TypeScript, PostgreSQL y AWS**.
 
@@ -22,13 +21,13 @@ Me especializo en construir soluciones eficientes con **Java, Python, React, Nod
 ## 📂 Proyectos
 - 🔹 **[MonkeyValue - React + Vite](https://github.com/Wantan-svn/MonkeyValue.git)** – MonkeyValue es una aplicación web diseñada para explorar videojuegos mediante la API de RAWG.
 - 🔹 **[AEM - Jupiter/collab](https://github.com/Wantan-svn/AEM.git)** – AEM es una herramienta para realizar procesos de analisis exploratorio a diversas fuentes de datos.
-- 🔹 **[TAW - Jupiter/collab](https://github.com/Wantan-svn/TAW.git)** – TAW es una herramienta para Transformar audio a texto .txt.
+- 🔹 **[TAW - Jupiter/collab](https://github.com/Wantan-svn/TAW.git)** – TAW es una herramienta para transformar audio a texto .txt.
+- 🔹 **[SRF - Jupiter/collab](https://github.com/Wantan-svn/SRF.git)** – SRF es una herramienta para detectar y transformar registros de Excel con saltos de linea en registros separados.
+
 ---
 
 ## 📫 Contacto  
 📧 **Email**: [fernando.bisbal28@gmail.com](mailto:fernando.bisbal28@gmail.com)  
 💼 **LinkedIn**: [www.linkedin.com/in/fernando-bisbal-alvarado-6a1298316](https://www.linkedin.com/in/fernando-bisbal-alvarado-6a1298316)  
-
-
 
 ---
